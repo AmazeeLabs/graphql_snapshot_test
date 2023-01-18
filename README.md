@@ -1,0 +1,1 @@
+# graphql_snapshot_test
