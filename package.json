@@ -1,7 +1,7 @@
 {
   "name": "@-amazeelabs/graphql_snapshot_test",
   "author": "Amazee Labs <development@amazeelabs.com>",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "scripts": {
     "version": "sync-composer-version"
   },
@@ -14,5 +14,5 @@
     "repository": "git@github.com:AmazeeLabs/graphql_snapshot_test.git",
     "branch": "main"
   },
-  "gitHead": "98d0983f6770f1f21eb712a1653b54095feed3d0"
+  "gitHead": "404e285b0f47ddc53403fcaa76cb05db4340d250"
 }
